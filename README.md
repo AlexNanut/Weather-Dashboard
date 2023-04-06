@@ -33,7 +33,7 @@ The following image shows the web application's appearance and functionality:
 
 # Built With
 
-*[OpenWeatherMap API](https://openweathermap.org/api) - Used to retrieve weather data
+* OpenWeatherMap API(https://openweathermap.org/api) - Used to retrieve weather data
 * HTML - Used for the app's structure
 * CSS - Used for styling the app's user interface
 * JavaScript - Used to create the app's dynamic behavior and interact with the OpenWeatherMap API
