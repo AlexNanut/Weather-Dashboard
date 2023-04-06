@@ -1,0 +1,87 @@
+h1 {
+	background-color:cornflowerblue;
+	text-align: center;
+}
+label {
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+.card {
+	margin: 10px;
+    max-width: 600px;
+}
+
+
+.histBtnRow {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.icons {
+	height: 70px;
+	width: 70px;
+}
+.cardTodayDate {
+	font-size: 40px;
+}
+
+.content {
+    display:flex;
+}
+
+.search-section {
+    padding:10px;
+
+}
+.weather-section{
+    background:aliceblue;
+    padding: 25px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.future-forecast{
+    background:aliceblue;
+    display: flex;
+    color:white;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    overflow-y: hidden;
+    gap:10px;
+}
+.today{
+    flex:1 1 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    border-radius: 10px;
+    background:dodgerblue;
+    flex-direction: column;
+
+    padding: 10px;
+
+}
+
+.future-forecast .weather-forecast{
+    display: flex;
+    gap:10px;
+}
+
+.weather-forecast .weather-forecast-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #eee;
+    padding: 15px;
+    border-radius: 10px;
+    background:dodgerblue;
+}
+.other {
+    display:flex;
+    flex-direction: column;
+
+}
