@@ -28,8 +28,8 @@ I have applied the essential criteria as follows:
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
+<img width="1440" alt="Screen Shot 2023-04-06 at 9 35 16 pm" src="https://user-images.githubusercontent.com/108309770/230365911-2864b778-0e2e-4a91-a782-2f894229495c.png">
 
-![The Password Generator application displays a red button to "Generate Password".]https://github.com/AlexNanut/Password-Generator/blob/main/Assets/03-javascript-homework-demo.png
 
 # Built With
 
